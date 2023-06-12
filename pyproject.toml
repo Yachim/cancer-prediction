@@ -10,6 +10,7 @@ packages = [{include = "cancer_prediction"}]
 python = "^3.11"
 scikit-learn = "^1.2.2"
 pandas = "^2.0.2"
+matplotlib = "^3.7.1"
 
 
 [tool.poetry.group.dev.dependencies]
